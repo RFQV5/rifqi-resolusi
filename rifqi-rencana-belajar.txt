@@ -4,6 +4,7 @@ RENCANA BELAJAR RIFQI
   + JavaScript
   + React
 - BackEnd
+  + Python
 - DevOps
 - Security
 - English
