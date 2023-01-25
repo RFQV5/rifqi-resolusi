@@ -1,6 +1,8 @@
 RENCANA BELAJAR RIFQI
 - GIT
 - FrontEnd
+  + JavaScript
+  + React
 - BackEnd
 - DevOps
 - Security
