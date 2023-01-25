@@ -5,3 +5,4 @@ RENCANA BELAJAR RIFQI
 - DevOps
 - Security
 - English
+- Public speaking
