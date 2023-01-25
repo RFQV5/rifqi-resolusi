@@ -1,8 +1,9 @@
 RENCANA BELAJAR RIFQI
 - GIT
 - FrontEnd
+  + MySQL
+  + PHP
 - BackEnd
 - DevOps
 - Security
-- English
 - Public speaking
