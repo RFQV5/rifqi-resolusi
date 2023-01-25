@@ -1,0 +1,7 @@
+RENCANA BELAJAR RIFQI
+- GIT
+- FrontEnd
+- BackEnd
+- DevOps
+- Security
+- English
