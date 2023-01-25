@@ -7,5 +7,4 @@ RENCANA BELAJAR RIFQI
   + Python
 - DevOps
 - Security
-- English
 - Public speaking
