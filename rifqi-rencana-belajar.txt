@@ -1,9 +1,10 @@
 RENCANA BELAJAR RIFQI
 - GIT
 - FrontEnd
-  + MySQL
-  + PHP
+  + JavaScript
+  + React
 - BackEnd
+  + Python
 - DevOps
 - Security
 - Public speaking
