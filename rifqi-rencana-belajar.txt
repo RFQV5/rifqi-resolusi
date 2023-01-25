@@ -4,3 +4,4 @@ RENCANA BELAJAR RIFQI
 - BackEnd
 - DevOps
 - Security
+- English
